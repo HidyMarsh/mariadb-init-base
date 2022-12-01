@@ -10,4 +10,4 @@ CREATE TABLE `users` (
   PRIMARY KEY (`id`),
   UNIQUE KEY `name` (`name`)
 ) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-INSERT INTO `users` VALUES (1,'田中広輔','Desgw110',1),(2,'宮田望','653sSw',0),(3,'島田大智','123456',1),(4,'中村美紀子','123456',1);
+INSERT INTO `users` VALUES (1,'John','Desgw110',1),(2,'Bobby','653sSw',0),(3,'Cornell','123456',1),(4,'Marks','123456',1);
