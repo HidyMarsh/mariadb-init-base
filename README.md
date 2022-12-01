@@ -1,4 +1,3 @@
-"# mymaria-db" 
 このdocker buildファィルは、ubuntuベースでmariadbを単純に初期化して使うための雛形です。
 
 example container create:
