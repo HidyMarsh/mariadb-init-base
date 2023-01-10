@@ -6,7 +6,7 @@ example container create:
 事前にinit.sqlを編集しておくことで初期のデータベース登録ができます。
 
 
-This docker build file is a template for simply initializing and using mariadb on a ubuntu base.
+This docker build files is a template for simply initializing and using mariadb on a ubuntu base.
 
 example container create:
 > docker run -dit -p 3306:3306 -e MY_ROOTPASS=<mariadb root password> --name mariadb mydb
